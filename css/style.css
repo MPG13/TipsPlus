@@ -42,6 +42,7 @@ li a:hover:not(.statushome) {
 }
 body {
 	margin: 0;
+	font-family: SanFran;
 	background-color: #DBD2E0;
 }
 h1 {
@@ -74,6 +75,24 @@ a{
 }
 li{
 	font-family: SanFran;
+}
+.blank{
+	/*hopefully clear all formatting*/
+	height:auto !important;
+	background-color: rgba(0,0,0,0.00) !important;
+	display: auto !important;
+	color: auto !important;
+	text-align: auto !important;
+	padding: auto !important;
+	text-decoration: auto !important;
+	list-style-type: circle !important;
+	margin: auto !important;
+	padding: auto !important;
+	overflow: auto !important;
+	position: relative !important;
+	top: auto !important;
+	float: none !important;
+	width: 50% !important;
 }
 /*Standard Body CSS Ends*/
 
