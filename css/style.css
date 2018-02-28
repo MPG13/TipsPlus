@@ -76,23 +76,6 @@ a{
 li{
 	font-family: SanFran;
 }
-.blank{
-	/*hopefully clear all formatting*/
-	height:auto !important;
-	background-color: rgba(0,0,0,0.00) !important;
-	display: auto !important;
-	color: auto !important;
-	text-align: auto !important;
-	padding: auto !important;
-	text-decoration: auto !important;
-	list-style-type: circle !important;
-	margin: auto !important;
-	padding: auto !important;
-	overflow: auto !important;
-	position: relative !important;
-	top: auto !important;
-	float: none !important;
-	width: 50% !important;
 }
 /*Standard Body CSS Ends*/
 
@@ -128,3 +111,20 @@ img .categories{
 .centertext{
 	text-align: center;
 }
+.blank{
+	/*hopefully clear all formatting*/
+	height:auto !important;
+	background-color: rgba(0,0,0,0.00) !important;
+	display: auto !important;
+	color: auto !important;
+	text-align: auto !important;
+	padding: auto !important;
+	text-decoration: auto !important;
+	list-style-type: circle !important;
+	margin: auto !important;
+	padding: auto !important;
+	overflow: auto !important;
+	position: relative !important;
+	top: auto !important;
+	float: none !important;
+	width: 50% !important;
